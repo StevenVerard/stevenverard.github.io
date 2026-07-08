@@ -1,0 +1,95 @@
+[
+  {
+    "title": "The Space Gravediggers",
+    "description": "Jeu d’exploration spatiale : un astronaute récolte des ressources pour sauver l’humanité. Développé avec un focus sur le game feel et les mécaniques de récolte.",
+    "image": "images/logo_jeu_the_space_gravediggers.png",
+    "tags": [
+      "unity",
+      "gamedesign",
+      "2d"
+    ],
+    "tech": [
+      "Unity",
+      "C#",
+      "2D",
+      "Game Design"
+    ],
+    "demoUrl": "https://swals.itch.io/the-space-gravediggers"
+  },
+  {
+    "title": "The Soul of Merlin",
+    "description": "Aventure mystique où l’âme de Merlin traverse des mondes sombres et corrompus pour retrouver son corps, avec plateforme et exploration.",
+    "image": "images/the_soul_of_merlin.png",
+    "tags": [
+      "unity",
+      "gamedesign",
+      "2d"
+    ],
+    "tech": [
+      "Unity",
+      "C#",
+      "2D",
+      "Narrative Design"
+    ],
+    "demoUrl": ""
+  },
+  {
+    "title": "Plateforme Biodiversité",
+    "description": "Plateforme web pour référencer la faune et la flore locale, avec interfaces interactives et gestion de base de données.",
+    "image": "images/plateforme_biodiversite.jpg",
+    "tags": [
+      "web"
+    ],
+    "tech": [
+      "Laravel",
+      "PHP",
+      "JavaScript",
+      "Web"
+    ],
+    "demoUrl": ""
+  },
+  {
+    "title": "Solware — Développement Frontend",
+    "description": "Création d’interfaces responsives pour des applications web et collaboration avec les développeurs backend.",
+    "image": "images/solware_frontend.jpg",
+    "tags": [
+      "web"
+    ],
+    "tech": [
+      "HTML/CSS",
+      "Bootstrap",
+      "JavaScript",
+      "Web"
+    ],
+    "demoUrl": ""
+  },
+  {
+    "title": "Ubisoft — Programmeur Gameplay (DuoDay)",
+    "description": "Découverte de la programmation gameplay et des environnements interactifs en temps réel aux côtés de développeurs professionnels.",
+    "image": "images/ubisoft_duoday.jpg",
+    "tags": [
+      "unity",
+      "gamedesign"
+    ],
+    "tech": [
+      "Unity",
+      "Gameplay",
+      "C#"
+    ],
+    "demoUrl": ""
+  },
+  {
+    "title": "France 3 — Chargé de Communication",
+    "description": "Création de supports visuels, gestion de contenus et développement de pages web sous WordPress avec SEO.",
+    "image": "images/france3_wordpress.jpg",
+    "tags": [
+      "web"
+    ],
+    "tech": [
+      "WordPress",
+      "SEO",
+      "Communication"
+    ],
+    "demoUrl": ""
+  }
+]
